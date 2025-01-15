@@ -20,7 +20,7 @@ The **Crop Recommendation System** is a machine learning-based tool that helps f
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/crop-recommendation-system.git  
+   [git clone https://github.com/your-username/crop-recommendation-system.git ](https://github.com/varunika278/Crop_Recommendation_System.git) 
    ```  
 2. Install dependencies:  
    ```bash  
