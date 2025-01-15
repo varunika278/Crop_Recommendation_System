@@ -29,17 +29,4 @@ The **Crop Recommendation System** is a machine learning-based tool that helps f
 3. Run the application:  
    ```bash  
    python app.py  
-   ```  
-4. Open [http://localhost:5000](http://localhost:5000) in your browser.  
-
-## Future Enhancements  
-- Integration of real-time weather data.  
-- Crop market price and profitability analysis.  
-- Mobile app for better accessibility.  
-- User feedback for continuous improvement.  
-
-## Contributing  
-Contributions are welcome! Submit suggestions, issues, or feature requests via GitHub.  
-
-## Acknowledgements  
-Thanks to agricultural researchers, farmers, and organizations for their insights and data contributions.  
+   ```
